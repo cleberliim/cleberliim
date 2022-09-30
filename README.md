@@ -1,13 +1,7 @@
 ## Olá devs, eu sou o Cleber Lima. 🤙
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleberliim/)
-
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515991495111)
-
-![Cleber Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberliim&show_icons=true&theme=radical)
-
+Entusiasta da área dev desde quando me conheço por gente e apaixonado por aprender.
+A vida como programador me permite explorar minha criatividade, e construir softwares que ajudem as pessoas e resolvam problemas do dia a dia, isso é o que me motiva.
 
 
 
@@ -25,5 +19,15 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div></br>
 
-Entusiasta da área dev desde quando me conheço por gente e apaixonado por aprender.
 
+## Estatísticas do Github📈
+
+![Cleber Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberliim&show_icons=true&theme=radical)
+
+## Contato
+
+Se você tem interesse em saber um pouco mais sobre e meus projetos, você pode entrar em contato comigo através dos meus links abaixo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleberliim/)
+
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515991495111)
