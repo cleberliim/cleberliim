@@ -26,7 +26,7 @@ A vida como programador me permite explorar minha criatividade, e construir soft
 
 ## Contato
 
-Se você tem interesse em saber um pouco mais sobre e meus projetos, você pode entrar em contato comigo através dos meus links abaixo:
+Se você tem interesse em saber um pouco mais sobre mim e meus projetos, você pode entrar em contato comigo através dos meus links abaixo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleberliim/)
 
