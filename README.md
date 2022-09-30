@@ -4,7 +4,6 @@ Entusiasta da área dev desde quando me conheço por gente e apaixonado por apre
 A vida como programador me permite explorar minha criatividade, e construir softwares que ajudem as pessoas e resolvam problemas do dia a dia, isso é o que me motiva.
 
 
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
