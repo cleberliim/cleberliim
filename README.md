@@ -19,10 +19,6 @@ A vida como programador me permite explorar minha criatividade, e construir soft
 </div></br>
 
 
-## Estatísticas do Github📈
-
-![Cleber Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberliim&show_icons=true&theme=radical)
-
 ## Contato
 
 Caso queira entrar em contato, é só chamar nos links abaixo:
