@@ -13,6 +13,7 @@ A vida como programador me permite explorar minha criatividade, e construir soft
   <img align="center" alt="html5" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
 </div></br>
 
 
