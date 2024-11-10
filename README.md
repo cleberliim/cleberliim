@@ -17,7 +17,7 @@ A vida como programador me permite explorar minha criatividade, e construir soft
   <img align="center" alt="html5" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </div></br>
-<p align="center>![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)</p>
+<img align="center" alt="html5" src="https://api.visitorbadge.io/api/VisitorHit?user=cleberliim&repo=github-visitors-badge&countColor=%237B1E7A"/>
 
  
 
