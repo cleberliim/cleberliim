@@ -1,4 +1,4 @@
-## Olá devs, eu sou o Cleber Lima. 🤙
+## Olá, eu sou o Cleber Lima. 🤙
 
 Entusiasta da área dev desde quando me conheço por gente e apaixonado por aprender.
 A vida como programador me permite explorar minha criatividade, e construir softwares que ajudem as pessoas e resolvam problemas do dia a dia, isso é o que me motiva.
