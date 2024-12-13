@@ -1,7 +1,6 @@
 ## Olá, eu sou o Cleber Lima. 🤙
 
-Entusiasta da área dev desde quando me conheço por gente e apaixonado por aprender.
-A vida como programador me permite explorar minha criatividade, e construir softwares que ajudem as pessoas e resolvam problemas do dia a dia, isso é o que me motiva.
+Apaixonado por inovação, estou sempre em busca de soluções tecnológicas que transformem desafios em oportunidades. Estou aberto a conexões e novas parcerias para projetos que agreguem valor e potencializem resultados.
 
 
 ## Tecnologias que eu uso no meu dia
