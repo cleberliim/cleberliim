@@ -23,7 +23,9 @@ Apaixonado por inovação, estou sempre em busca de soluções tecnológicas que
  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br></br>
 <h2 align="center">Bem-vindo ao meu perfil profissional, aproveite e me mande uma mensagem se precisar.</h2></br>
+<p align="center"> <a href="https://wa.me/+5515991495111" target="_blank"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> </p>
 </div></br>
+
 <div align="center" style="display: inline_block">
 <img align="center" alt="html5" src="https://api.visitorbadge.io/api/VisitorHit?user=cleberliim&repo=github-visitors-badge&countColor=%237B1E7A"/>
 </div>
