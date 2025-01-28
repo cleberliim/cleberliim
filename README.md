@@ -18,6 +18,10 @@ Apaixonado por inovação, estou sempre em busca de soluções tecnológicas que
   <img align="center" alt="html5" src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/javascript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img align="center" alt="apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img align="center" alt="nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+
+
 
   
   
