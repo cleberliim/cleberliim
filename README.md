@@ -30,10 +30,6 @@ Apaixonado por inovação, estou sempre em busca de soluções tecnológicas que
 
 </div><br></br>
 
-<p align="center">Aproveite e me mande uma mensagem se precisar</br></p>
-<p align="center"> <a href="https://wa.me/+5515991495111" target="_blank"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> </p>
-</div></br>
-
 <div align="center" style="display: inline_block">
 <img align="center" alt="html5" src="https://api.visitorbadge.io/api/VisitorHit?user=cleberliim&repo=github-visitors-badge&countColor=%237B1E7A"/>
 </div>
