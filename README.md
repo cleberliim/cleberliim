@@ -1,6 +1,8 @@
-## Bem-vindo ao meu perfil profissional🤙
+## Bem-vindo ao meu perfil profissional
 
-Apaixonado por inovação, estou sempre em busca de soluções tecnológicas que transformem desafios em oportunidades. Estou aberto a conexões e novas parcerias para projetos que agreguem valor e potencializem resultados.
+Transformo processos manuais em fluxos automatizados, conecto sistemas através de APIs e desenvolvo soluções que aumentam produtividade, escalabilidade e eficiência operacional.
+Apaixonado por tecnologia, inovação e melhoria contínua, estou sempre em busca de novos desafios, conexões estratégicas e projetos que gerem impacto real nos negócios.
+
 
 
 ## Tecnologias que eu uso no meu dia
